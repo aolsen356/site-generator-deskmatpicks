@@ -7,9 +7,9 @@ Domain: deskmatpicks.webcytz.com
 ---
 
 ## Bootstrap (do not modify these)
-- [ ] Initialize git repository
-- [ ] Create GitHub repo (site-generator-deskmatpicks)
-- [ ] Set up Cloudflare hosting and custom domain
+- [x] Initialize git repository
+- [x] Create GitHub repo (site-generator-deskmatpicks)
+- [x] Set up Cloudflare hosting and custom domain (NOTE: Hit project limit - will deploy when space available)
 
 ## Planning
 - [ ] PLAN: Analyze the site concept and create a comprehensive task list

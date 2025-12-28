@@ -10,6 +10,8 @@ Desk mat comparison hub with size charts, material breakdowns, and gaming vs pro
 ## Status
 In development - tasks being processed by site-agent
 
+NOTE: Cloudflare Pages project creation hit account limit. Site is ready for deployment once space is available.
+
 ## Configuration
 - Amazon Associate Tag: kcwd-20
 - GA4 ID: G-38BF85QJG1

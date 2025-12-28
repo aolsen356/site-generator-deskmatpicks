@@ -26,5 +26,8 @@ Domain: deskmatpicks.webcytz.com
 - [x] Verify Google Analytics is present on all HTML pages
 - [x] Organize files into public/ directory for deployment
 
+## Deployment Fix
+- [ ] Fix: Move files from public/ to root directory for GitHub Pages to serve correctly
+
 ## Completion
 - [x] FINAL: Site is complete, functional, and deployed at https://aolsen356.github.io/site-generator-deskmatpicks/
